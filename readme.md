@@ -1,4 +1,4 @@
-To view the page go to "razorpay-clone-iota-five.vercel.app"
+To view the page go to "https://razorpay-clone-iota-five.vercel.app"
 
 **Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
 
